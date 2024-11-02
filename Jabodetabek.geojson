@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Jabodetabek",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "nama": "Depok", "nama ": "Depok", "luas": "200,3", "populasi": "1.927.867", "tahun": 2024 }, "geometry": { "type": "Point", "coordinates": [ 106.816985639905738, -6.408755422758219 ] } },
+{ "type": "Feature", "id": 1, "properties": { "nama": "DKI Jakarta", "nama ": "DKI Jakarta", "luas": "661,5", "populasi": "11.135.191", "tahun": 2024 }, "geometry": { "type": "Point", "coordinates": [ 106.827003123162513, -6.174908761590359 ] } },
+{ "type": "Feature", "id": 2, "properties": { "nama": "Bekasi", "nama ": "Bekasi", "luas": "210,5", "populasi": "2,53.000.000", "tahun": 2024 }, "geometry": { "type": "Point", "coordinates": [ 106.994977878425686, -6.233463739588842 ] } },
+{ "type": "Feature", "id": 3, "properties": { "nama": "Bogor", "nama ": "Bogor", "luas": "118,50", "populasi": "5.664.537", "tahun": 2024 }, "geometry": { "type": "Point", "coordinates": [ 106.797795973086863, -6.59554849147537 ] } },
+{ "type": "Feature", "id": 4, "properties": { "nama": "Tangerang", "nama ": "Tangerang", "luas": "164,5", "populasi": "1.927.815", "tahun": 2024 }, "geometry": { "type": "Point", "coordinates": [ 106.636510208326513, -6.173689926837881 ] } },
+{ "type": "Feature", "id": 5, "properties": { "nama": "Tangerang Selatan", "nama ": "Tangerang Selatan", "luas": "164,86", "populasi": "1.429.529", "tahun": 2024 }, "geometry": { "type": "Point", "coordinates": [ 106.709568848467256, -6.316191604535206 ] } }
+]
+}
